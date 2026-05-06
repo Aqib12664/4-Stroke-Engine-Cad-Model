@@ -1,4 +1,4 @@
-<img width="920" height="656" alt="assembly" src="https://github.com/user-attachments/assets/eb2895aa-9e84-4fa2-86e6-882285700c05" />
+
 # 4-Stroke Engine CAD Model ⚙️
 
 ![AutoCAD](https://img.shields.io/badge/autocad-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
@@ -18,7 +18,7 @@ The engine assembly consists of the following meticulously designed parts (all s
 > *Note: GitHub cannot display `.dwg` files natively. Below are rendered images and orthographic views of the engine design.*
 
 ### Final Assembly
-![Final Assembly Render](<img width="920" height="656" alt="assembly" src="https://github.com/user-attachments/assets/108c8c41-90aa-4e6d-90b9-d64534f8af82" />
+![Final Assembly Render](<img width="920" height="656" alt="assembly" src="https://github.com/user-attachments/assets/eb2895aa-9e84-4fa2-86e6-882285700c05" />
 )
 *Caption: Full 3D assembly of the internal components.*
 
