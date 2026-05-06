@@ -1,3 +1,4 @@
+<img width="920" height="656" alt="assembly" src="https://github.com/user-attachments/assets/eb2895aa-9e84-4fa2-86e6-882285700c05" />
 # 4-Stroke Engine CAD Model ⚙️
 
 ![AutoCAD](https://img.shields.io/badge/autocad-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
@@ -17,11 +18,13 @@ The engine assembly consists of the following meticulously designed parts (all s
 > *Note: GitHub cannot display `.dwg` files natively. Below are rendered images and orthographic views of the engine design.*
 
 ### Final Assembly
-![Final Assembly Render]([Insert link to your assembly image here, e.g., renders/assembly.png])
+![Final Assembly Render](<img width="920" height="656" alt="assembly" src="https://github.com/user-attachments/assets/108c8c41-90aa-4e6d-90b9-d64534f8af82" />
+)
 *Caption: Full 3D assembly of the internal components.*
 
 ### Exploded View / Individual Parts
-![Connecting Rod]([Insert link to your connecting rod image here])
+![Connecting Rod](<img width="631" height="669" alt="connecting rod" src="https://github.com/user-attachments/assets/5f1c710d-070b-4a21-aedf-ea2d53da343d" />
+)
 *Caption: Connecting rod and cap detailing.*
 
 ## 🎓 Project Background
